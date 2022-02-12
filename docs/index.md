@@ -1,2 +1,2 @@
-## Generative Art
+# Generative Art
  Hello
