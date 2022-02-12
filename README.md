@@ -9,6 +9,10 @@ My Project:
 * There were around 25 projects in the whole display (one from each student in the class)
 
 Visual Documentation:
-https://user-images.githubusercontent.com/69936719/153724106-d5c5994b-5846-4ca5-b88a-8a76301cf288.MP4
+https://user-images.githubusercontent.com/69936719/153724161-cb285d29-77b1-482b-98fa-2e219c1e14f5.MOV
+
+
+
+https://user-images.githubusercontent.com/69936719/153724169-e7a9f609-36ad-4068-9b01-f2fa141eee52.MP4
 
 
