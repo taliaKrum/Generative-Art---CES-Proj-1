@@ -1,0 +1,2 @@
+# Generative-Art---CES-Proj-1
+In this lab you will use your:  ESP32 TTGO T-display battery The goal is to create a generative art installation in the fifth floor Milstein. This is a collaborative installation project that we will complete as a class. We will hang everyone’s ESP32 in a small paper envelop in the hallway with the elevators. The devices will run off a battery and be up for the duration of a clas period.  From a software perspective, you will write a single ESP32 program that visualizes a text of your choice on the screen of the ESP32.
