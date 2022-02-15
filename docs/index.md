@@ -21,12 +21,12 @@ Installation Steps:
 5. Make sure one side of the envelope stays open so that there is easy access to your device (as seen in the video below)
  <img width="379" alt="Screen Shot 2022-02-15 at 10 36 54 AM" src="https://user-images.githubusercontent.com/69936719/154095832-d2b7a032-d1f0-4c43-840c-f8677290ff14.png">
 
-<video>
+<video controls>
  <source src="https://user-images.githubusercontent.com/69936719/153727685-44e211a1-3649-47eb-a94a-efe4a415c7d8.MP4" type="video/mp4">
 </video>
 
 
-<video>
+<video controls>
  <source src="https://user-images.githubusercontent.com/69936719/153727683-9aa9eafc-63d9-4af5-b73e-168081c5ab69.mp4" type="video/mp4">
 </video>
 
