@@ -26,5 +26,7 @@ Installation Steps:
 </video>
 
 
-https://user-images.githubusercontent.com/69936719/153727683-9aa9eafc-63d9-4af5-b73e-168081c5ab69.mp4
+<video>
+ <source src="https://user-images.githubusercontent.com/69936719/153727683-9aa9eafc-63d9-4af5-b73e-168081c5ab69.mp4" type="video/mp4">
+</video>
 
